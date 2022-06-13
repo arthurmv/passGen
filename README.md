@@ -4,4 +4,4 @@
     
 This is a simple but useful passsword generator written in Python.
 
-<a href="https://www.flaticon.com/free-icons/generator" title="generator icons" target="_blank">Icon created by Smashicons</a>
+[Icon created by Smashicons](https://www.flaticon.com/free-icons/generator)
