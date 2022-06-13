@@ -1,2 +1,5 @@
-# passGen
-Passsword generator written in Python.
+    █▀▀█ █▀▀█ █▀▀ █▀▀ ▒█▀▀█ █▀▀ █▀▀▄
+    █░░█ █▄▄█ ▀▀█ ▀▀█ ▒█░▄▄ █▀▀ █░░█
+    █▀▀▀ ▀░░▀ ▀▀▀ ▀▀▀ ▒█▄▄█ ▀▀▀ ▀░░▀
+    
+This is a simple but useful passsword generator written in Python.
